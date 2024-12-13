@@ -1,4 +1,4 @@
-# Basketball Momentum Analysis
+Basketball Momentum Analysis
 
 ## Overview
 This project analyzes momentum in FIBA basketball games using advanced data analysis techniques. The analysis focuses on identifying and understanding momentum periods during games, utilizing both traditional statistical approaches and machine learning models.
